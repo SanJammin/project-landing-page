@@ -154,3 +154,44 @@ h1 {
     margin-left: 30%;
     margin-top: -30px;
 }
+
+/* Area 4 */
+
+.section-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 100px;
+    flex-direction: row;
+}
+
+.advert-box {
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 25px 100px;
+    display: flex;
+    gap: 100px;
+}
+
+.advert h4 {
+    font-weight: bold;
+    color: #F9FAF8;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.advert p {
+    margin-top: 0;
+    color: #E5E7EB;
+}
+
+.advert-box button {
+    color: #F9FAF8;
+    font-weight: bold;
+    background-color: #3882F6;
+    border: 1px solid #F9FAF8;
+    padding: 5px 20px;
+    border-radius: 5px;
+    display: flex;
+    align-self: center;
+}
