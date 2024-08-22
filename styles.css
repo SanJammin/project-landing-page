@@ -126,3 +126,31 @@ h1 {
     text-align: center;
 }
 
+/* Area 3 */
+
+.section-three {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 150px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter;
+    font-style: italic;
+    width: 48%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.author {
+    font-size: 18px;
+    color: #1F2937;
+    font-weight: bold;
+    margin-left: 30%;
+    margin-top: -30px;
+}
