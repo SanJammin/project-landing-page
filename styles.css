@@ -89,3 +89,40 @@ h1 {
     width: 600px;
     height: 300px;
 }
+
+/* Area 2 */
+
+.section-two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.information-header {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.illustration {
+    border: 3px solid #3882F6;
+    border-radius: 20px;
+    height: 150px;
+    width: 150px;
+}
+
+.subcontainer {
+    width: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
