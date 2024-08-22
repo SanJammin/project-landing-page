@@ -195,3 +195,15 @@ h1 {
     display: flex;
     align-self: center;
 }
+
+/* Footer */
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+    padding: 20px;
+}
